@@ -72,3 +72,5 @@ node_modules/
 "firebase-tools-instant-win.exe" 
 "node_modules/" 
 ".firebase/"    
+node_modules/
+firebase-tools*.exe
